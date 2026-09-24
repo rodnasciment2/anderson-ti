@@ -1,2 +1,2 @@
-# anderson-ti
-Currículo online interativo de Anderson Nascimento — Suporte Técnico, Redes e Infraestrutura.
+# Anderson Ti
+Currículo online interativo de Anderson Nascimento Suporte Técnico, Redes e Infraestrutura.
